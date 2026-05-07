@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507211910RHLLFA</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507211910QG9QG0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Cuello de botella: el viaje invisible de los productos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto ABP para 3.º ESO - Geografía e Historia</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Juan A. Arrebola Castaño</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto de aprendizaje basado en problemas para 3.º ESO de Geografía e Historia. El alumnado investiga cómo los bloqueos en puntos estratégicos del transporte marítimo global (Canal de Suez, Mar Rojo, Estrecho de Ormuz) afectan a la cadena logística de productos cotidianos y propone soluciones sostenibles. Duración: 4 sesiones. Producto final: dosier, infografía y exposición oral.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778176646204</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>4e5571ae-b069-48cb-8c73-d17beb94b618</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>4e5571ae-b069-48cb-8c73-d17beb94b618</odePageId>
+      <odeBlockId>block-1778152173021-n3ooemgaz</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>4e5571ae-b069-48cb-8c73-d17beb94b618</odePageId>
+          <odeBlockId>block-1778152173021-n3ooemgaz</odeBlockId>
+          <odeIdeviceId>idevice-1778152173017-f31i7vwhx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Bienvenida al proyecto</h2>
+<p>Este proyecto se titula "<strong>Cuello de botella: el viaje invisible de los productos</strong>" y lo realizaremos durante 4 sesiones de trabajo en grupos de 3 personas.</p>
+<h4>¿De qué trata?</h4>
+<p>Vamos a investigar cómo los productos que usamos a diario (ropa, móviles, alimentos...) viajan miles de kilómetros antes de llegar a nuestras manos, y qué pasa cuando algún punto clave de esa ruta se bloquea.</p>
+<p>Analizaréis tres casos reales:<br />- El bloqueo del Canal de Suez (caso Ever Given)<br />- Los ataques hutíes en el Mar Rojo<br />- Las tensiones en el Estrecho de Ormuz</p>
+<h4>¿Qué vais a elaborar?</h4>
+<p>Al finalizar el proyecto, cada grupo tendrá:<br />1. Un dosier de análisis completo (7 apartados)<br />2. Una infografía que sintetice vuestro trabajo<br />3. Una exposición oral de 3 minutos</p>
+<h4>Documentos del proyecto</h4>
+<p>Podéis consultar la descripción completa del proyecto en el siguiente enlace:</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778152173017-f31i7vwhx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Bienvenida al proyecto</h2>\n<p>Este proyecto se titula \"<strong>Cuello de botella: el viaje invisible de los productos</strong>\" y lo realizaremos durante 4 sesiones de trabajo en grupos de 3 personas.</p>\n<h4>¿De qué trata?</h4>\n<p>Vamos a investigar cómo los productos que usamos a diario (ropa, móviles, alimentos...) viajan miles de kilómetros antes de llegar a nuestras manos, y qué pasa cuando algún punto clave de esa ruta se bloquea.</p>\n<p>Analizaréis tres casos reales:<br />- El bloqueo del Canal de Suez (caso Ever Given)<br />- Los ataques hutíes en el Mar Rojo<br />- Las tensiones en el Estrecho de Ormuz</p>\n<h4>¿Qué vais a elaborar?</h4>\n<p>Al finalizar el proyecto, cada grupo tendrá:<br />1. Un dosier de análisis completo (7 apartados)<br />2. Una infografía que sintetice vuestro trabajo<br />3. Una exposición oral de 3 minutos</p>\n<h4>Documentos del proyecto</h4>\n<p>Podéis consultar la descripción completa del proyecto en el siguiente enlace:</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>4e5571ae-b069-48cb-8c73-d17beb94b618</odePageId>
+      <odeBlockId>block-1778152228619-w8dcu3juu</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>4e5571ae-b069-48cb-8c73-d17beb94b618</odePageId>
+          <odeBlockId>block-1778152228619-w8dcu3juu</odeBlockId>
+          <odeIdeviceId>idevice-1778152228616-qp3wf81nm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1pvX7at2Ysd6ck-YNPtaWk38NqNIoNnN2/edit" title="">Documento completo del proyecto</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778152228616-qp3wf81nm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1pvX7at2Ysd6ck-YNPtaWk38NqNIoNnN2/edit\" title=\"\">Documento completo del proyecto</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778145259615-dduhlg8ma</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778145259615-dduhlg8ma</odePageId>
+      <odeBlockId>block-1778152366149-5f96hc9w3</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145259615-dduhlg8ma</odePageId>
+          <odeBlockId>block-1778152366149-5f96hc9w3</odeBlockId>
+          <odeIdeviceId>idevice-1778152366146-dx4hg7cj4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4>Tu mundo digital seguro</h4>
+<p>Durante este proyecto vamos a trabajar con información de internet, compartir documentos y crear contenido digital. Es importante que conozcáis vuestros derechos y responsabilidades.</p>
+<h4>¿Por qué es importante?</h4>
+<p>- Vuestros datos personales son vuestros<br />- Todo lo que publicáis deja huella digital<br />- Debéis citar las fuentes que utilicéis<br />- Las imágenes tienen derechos de autor<br />- La IA puede ayudar, pero no sustituye vuestro trabajo<br /><br /><strong>Guía completa</strong><br />A continuación tenéis una guía con 8 puntos clave que debéis conocer y aplicar durante todo el proyecto.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778152366146-dx4hg7cj4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4>Tu mundo digital seguro</h4>\n<p>Durante este proyecto vamos a trabajar con información de internet, compartir documentos y crear contenido digital. Es importante que conozcáis vuestros derechos y responsabilidades.</p>\n<h4>¿Por qué es importante?</h4>\n<p>- Vuestros datos personales son vuestros<br />- Todo lo que publicáis deja huella digital<br />- Debéis citar las fuentes que utilicéis<br />- Las imágenes tienen derechos de autor<br />- La IA puede ayudar, pero no sustituye vuestro trabajo<br /><br /><strong>Guía completa</strong><br />A continuación tenéis una guía con 8 puntos clave que debéis conocer y aplicar durante todo el proyecto.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778145259615-dduhlg8ma</odePageId>
+      <odeBlockId>block-1778152844458-6sdjdd2cd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145259615-dduhlg8ma</odePageId>
+          <odeBlockId>block-1778152844458-6sdjdd2cd</odeBlockId>
+          <odeIdeviceId>idevice-1778152844456-b8xr1etb9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/15vjG7Ai-T5iCnPAce01_V6kK1LwGnYw3/view?usp=drive_link" title="">Ver y descargar la guía completa (PDF)</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778152844456-b8xr1etb9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/15vjG7Ai-T5iCnPAce01_V6kK1LwGnYw3/view?usp=drive_link\" title=\"\">Ver y descargar la guía completa (PDF)</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778145267966-ntcu33lbs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Producto final: qué debéis elaborar</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final: qué debéis elaborar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778145267966-ntcu33lbs</odePageId>
+      <odeBlockId>block-1778152758481-8xmi2dn9i</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145267966-ntcu33lbs</odePageId>
+          <odeBlockId>block-1778152758481-8xmi2dn9i</odeBlockId>
+          <odeIdeviceId>idevice-1778152758478-tc1k6kump</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Vuestro trabajo final</h2>
+<p>Al finalizar el proyecto, cada grupo deberá haber elaborado dos elementos y una presentación:</p>
+<h4>1. Dosier de análisis (Google Docs)</h4>
+<p>Un documento colaborativo con 7 apartados:<br />- Concepto de cuello de botella e interdependencia<br />- Producto cotidiano e hipótesis de origen<br />- Localización de ruta y paso estratégico<br />- Cadena logística completa<br />- Efecto dominó (causa-consecuencia)<br />- Impactos económico, social y ambiental<br />- DAFO del sistema de transporte global<br />- Propuestas sostenibles</p>
+<h4>2. Infografía (Google Presentaciones)</h4>
+<p>Síntesis visual de vuestro análisis que incluya:<br />- El producto elegido y su ruta<br />- El cuello de botella identificado<br />- El efecto dominó y los impactos<br />- Vuestra propuesta sostenible principal<br />- Citas de fuentes utilizadas<br />- Imágenes con licencia Creative Commons</p>
+<h4>3. Exposición oral (3 minutos)</h4>
+<p>Presentación en clase con apoyo de la infografía.</p>
+<p>-------------------------</p>
+<h4>Herramientas que usaréis</h4>
+<p>Trabajaréis con Google Workspace (cuentas g.educaand.es):<br />- <strong>Google Docs</strong> para el dosier colaborativo<br />- <strong>Google Presentaciones</strong> para la infografía<br />- <strong>Google Maps/Earth</strong> para localizar rutas</p>
+<h4>¿Por qué estas herramientas?</h4>
+<p><strong>Versatilidad</strong>: Permiten integrar texto, imágenes, tablas, enlaces y trabajar de forma colaborativa en tiempo real.</p>
+<p><strong>Accesibilidad</strong>: Todos tenéis cuenta corporativa del centro. Funcionan en cualquier navegador sin instalación.</p>
+<p><strong>Supervisión</strong>: El profesor puede ver el proceso mientras trabajáis, no solo el resultado final. El historial de versiones permite verificar la participación de cada miembro.</p>
+<p><strong>Compatibilidad</strong>: Funcionan en los ordenadores del aula de informática y en vuestros dispositivos personales.</p>
+<p>-------------------------</p>
+<h4>Criterios de evaluación</h4>
+<p>Vuestro trabajo será evaluado según estos criterios curriculares:<br />- 1.1: Localización e interpretación espacial<br />- 1.2: Búsqueda y análisis de fuentes<br />- 1.3: Comunicación y exposición<br />- 3.2: Análisis de impactos y efectos<br />- 4.2: Producción de contenido digital<br />- 8.1: Propuestas para un mundo sostenible</p>
+<p>Podéis consultar los instrumentos de evaluación completos en la página 6 de este proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778152758478-tc1k6kump","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Vuestro trabajo final</h2>\n<p>Al finalizar el proyecto, cada grupo deberá haber elaborado dos elementos y una presentación:</p>\n<h4>1. Dosier de análisis (Google Docs)</h4>\n<p>Un documento colaborativo con 7 apartados:<br />- Concepto de cuello de botella e interdependencia<br />- Producto cotidiano e hipótesis de origen<br />- Localización de ruta y paso estratégico<br />- Cadena logística completa<br />- Efecto dominó (causa-consecuencia)<br />- Impactos económico, social y ambiental<br />- DAFO del sistema de transporte global<br />- Propuestas sostenibles</p>\n<h4>2. Infografía (Google Presentaciones)</h4>\n<p>Síntesis visual de vuestro análisis que incluya:<br />- El producto elegido y su ruta<br />- El cuello de botella identificado<br />- El efecto dominó y los impactos<br />- Vuestra propuesta sostenible principal<br />- Citas de fuentes utilizadas<br />- Imágenes con licencia Creative Commons</p>\n<h4>3. Exposición oral (3 minutos)</h4>\n<p>Presentación en clase con apoyo de la infografía.</p>\n<p>-------------------------</p>\n<h4>Herramientas que usaréis</h4>\n<p>Trabajaréis con Google Workspace (cuentas g.educaand.es):<br />- <strong>Google Docs</strong> para el dosier colaborativo<br />- <strong>Google Presentaciones</strong> para la infografía<br />- <strong>Google Maps/Earth</strong> para localizar rutas</p>\n<h4>¿Por qué estas herramientas?</h4>\n<p><strong>Versatilidad</strong>: Permiten integrar texto, imágenes, tablas, enlaces y trabajar de forma colaborativa en tiempo real.</p>\n<p><strong>Accesibilidad</strong>: Todos tenéis cuenta corporativa del centro. Funcionan en cualquier navegador sin instalación.</p>\n<p><strong>Supervisión</strong>: El profesor puede ver el proceso mientras trabajáis, no solo el resultado final. El historial de versiones permite verificar la participación de cada miembro.</p>\n<p><strong>Compatibilidad</strong>: Funcionan en los ordenadores del aula de informática y en vuestros dispositivos personales.</p>\n<p>-------------------------</p>\n<h4>Criterios de evaluación</h4>\n<p>Vuestro trabajo será evaluado según estos criterios curriculares:<br />- 1.1: Localización e interpretación espacial<br />- 1.2: Búsqueda y análisis de fuentes<br />- 1.3: Comunicación y exposición<br />- 3.2: Análisis de impactos y efectos<br />- 4.2: Producción de contenido digital<br />- 8.1: Propuestas para un mundo sostenible</p>\n<p>Podéis consultar los instrumentos de evaluación completos en la página 6 de este proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778145276373-dea4ns7kq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Recursos para vuestro trabajo</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Recursos para vuestro trabajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778145276373-dea4ns7kq</odePageId>
+      <odeBlockId>block-1778153722238-7n478p06d</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145276373-dea4ns7kq</odePageId>
+          <odeBlockId>block-1778153722238-7n478p06d</odeBlockId>
+          <odeIdeviceId>idevice-1778153722234-027lvjjej</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Recursos organizados para vuestro proyecto</h2>
+<p>He preparado un panel con todos los materiales que necesitaréis durante el proyecto. Están organizados por categorías para que podáis encontrar fácilmente lo que buscáis.</p>
+<h2>¿Qué encontraréis?</h2>
+<p><strong>Fuentes y noticias</strong><br />- Caso A: Ever Given - Bloqueo Canal de Suez<br />- Caso B: Hutíes - Mar Rojo<br />- Caso C: Estrecho de Ormuz<br />- Artículos de prensa internacional (Guardian, BBC, Reuters, El País...)</p>
+<p><strong>Tutoriales</strong><br />- Cómo trabajar colaborativamente en Google Docs<br />- Cómo citar fuentes correctamente<br />- Dónde buscar imágenes con licencia Creative Commons<br />- Cómo usar Google Maps para trazar rutas<br />- Cómo crear una infografía efectiva</p>
+<p><strong>Protocolo de uso de IA</strong><br />- Reglas claras sobre cuándo y cómo usar inteligencia artificial<br />- Recordatorio: la IA orienta, no sustituye vuestro trabajo<br />- Siempre verificad lo que os diga<br />- Comprobad las fuentes que cite<br />- Indicad en el trabajo si la habéis utilizado</p>
+<p><strong>Vocabulario clave</strong><br />- Cuello de botella<br />- Interdependencia económica<br />- Cadena logística<br />- Efecto dominó<br />- DAFO<br />- Consumo sostenible</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778153722234-027lvjjej","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Recursos organizados para vuestro proyecto</h2>\n<p>He preparado un panel con todos los materiales que necesitaréis durante el proyecto. Están organizados por categorías para que podáis encontrar fácilmente lo que buscáis.</p>\n<h2>¿Qué encontraréis?</h2>\n<p><strong>Fuentes y noticias</strong><br />- Caso A: Ever Given - Bloqueo Canal de Suez<br />- Caso B: Hutíes - Mar Rojo<br />- Caso C: Estrecho de Ormuz<br />- Artículos de prensa internacional (Guardian, BBC, Reuters, El País...)</p>\n<p><strong>Tutoriales</strong><br />- Cómo trabajar colaborativamente en Google Docs<br />- Cómo citar fuentes correctamente<br />- Dónde buscar imágenes con licencia Creative Commons<br />- Cómo usar Google Maps para trazar rutas<br />- Cómo crear una infografía efectiva</p>\n<p><strong>Protocolo de uso de IA</strong><br />- Reglas claras sobre cuándo y cómo usar inteligencia artificial<br />- Recordatorio: la IA orienta, no sustituye vuestro trabajo<br />- Siempre verificad lo que os diga<br />- Comprobad las fuentes que cite<br />- Indicad en el trabajo si la habéis utilizado</p>\n<p><strong>Vocabulario clave</strong><br />- Cuello de botella<br />- Interdependencia económica<br />- Cadena logística<br />- Efecto dominó<br />- DAFO<br />- Consumo sostenible</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778145276373-dea4ns7kq</odePageId>
+      <odeBlockId>block-1778179964553-bn4hkeyul</odeBlockId>
+      <blockName>Acceso al panel de recursos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145276373-dea4ns7kq</odePageId>
+          <odeBlockId>block-1778179964553-bn4hkeyul</odeBlockId>
+          <odeIdeviceId>idevice-1778179964551-8mz8sl7pv</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/jarrcas545/recursos-para-el-proyecto-cuello-de-botella-clxgxqfauzlkjvch" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778145285222-n5mcimha6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Organización temporal del proyecto</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Organización temporal del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778145285222-n5mcimha6</odePageId>
+      <odeBlockId>block-1778154123256-sl5gisdx5</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145285222-n5mcimha6</odePageId>
+          <odeBlockId>block-1778154123256-sl5gisdx5</odeBlockId>
+          <odeIdeviceId>idevice-1778154123255-oob0oyo4c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Cómo nos organizamos: 4 sesiones de trabajo</h2>
+<p>El proyecto se desarrolla en <strong>4 sesiones de 50 minutos</strong> cada una. Trabajaréis en <strong>grupos de 3 personas</strong> y cada sesión tiene tareas específicas con tiempos asignados.</p>
+<h4>Visión general</h4>
+<p><strong>SESIÓN 1</strong>: Concepto y producto** (Aula ordinaria/informática)<br />- Comprender qué es un cuello de botella<br />- Elegir vuestro producto cotidiano<br />- Formular hipótesis sobre su origen</p>
+<p><strong>SESIÓN 2</strong>: Ruta y cadena logística** (Aula de informática)<br />- Localizar la ruta marítima en el mapa<br />- Identificar el cuello de botella de vuestro caso<br />- Analizar la cadena logística completa</p>
+<p><strong>SESIÓN 3</strong>: Análisis de impactos y propuestas** (Aula ordinaria/Biblioteca)<br />- Analizar el efecto dominó<br />- Completar el DAFO<br />- Proponer soluciones sostenibles</p>
+<p><strong>SESIÓN 4</strong>: Infografía y exposición** (Informática → Ordinaria)<br />- Crear la infografía final<br />- Exponer ante la clase (3 minutos por grupo)</p>
+<p>-------------------</p>
+<h4>Mapa mental completo del proyecto</h4>
+<p>En el siguiente mapa mental podéis ver con detalle:<br />- Las tareas específicas de cada sesión<br />- Los tiempos asignados a cada tarea<br />- Las herramientas que necesitaréis<br />- Los espacios de trabajo<br />- Los recursos técnicos disponibles</p>
+<p>Consultadlo siempre que necesitéis recordar qué toca hacer en cada momento.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778154123255-oob0oyo4c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Cómo nos organizamos: 4 sesiones de trabajo</h2>\n<p>El proyecto se desarrolla en <strong>4 sesiones de 50 minutos</strong> cada una. Trabajaréis en <strong>grupos de 3 personas</strong> y cada sesión tiene tareas específicas con tiempos asignados.</p>\n<h4>Visión general</h4>\n<p><strong>SESIÓN 1</strong>: Concepto y producto** (Aula ordinaria/informática)<br />- Comprender qué es un cuello de botella<br />- Elegir vuestro producto cotidiano<br />- Formular hipótesis sobre su origen</p>\n<p><strong>SESIÓN 2</strong>: Ruta y cadena logística** (Aula de informática)<br />- Localizar la ruta marítima en el mapa<br />- Identificar el cuello de botella de vuestro caso<br />- Analizar la cadena logística completa</p>\n<p><strong>SESIÓN 3</strong>: Análisis de impactos y propuestas** (Aula ordinaria/Biblioteca)<br />- Analizar el efecto dominó<br />- Completar el DAFO<br />- Proponer soluciones sostenibles</p>\n<p><strong>SESIÓN 4</strong>: Infografía y exposición** (Informática → Ordinaria)<br />- Crear la infografía final<br />- Exponer ante la clase (3 minutos por grupo)</p>\n<p>-------------------</p>\n<h4>Mapa mental completo del proyecto</h4>\n<p>En el siguiente mapa mental podéis ver con detalle:<br />- Las tareas específicas de cada sesión<br />- Los tiempos asignados a cada tarea<br />- Las herramientas que necesitaréis<br />- Los espacios de trabajo<br />- Los recursos técnicos disponibles</p>\n<p>Consultadlo siempre que necesitéis recordar qué toca hacer en cada momento.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778145285222-n5mcimha6</odePageId>
+      <odeBlockId>block-1778180460536-cpg5jyy9h</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145285222-n5mcimha6</odePageId>
+          <odeBlockId>block-1778180460536-cpg5jyy9h</odeBlockId>
+          <odeIdeviceId>idevice-1778180460534-aj9c681r1</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://go.bubbl.us/f19fc4/66ff?/New-Mind-Map" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778145291709-wp0u56aig</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778145291709-wp0u56aig</odePageId>
+      <odeBlockId>block-1778175832066-xd6veukrl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145291709-wp0u56aig</odePageId>
+          <odeBlockId>block-1778175832066-xd6veukrl</odeBlockId>
+          <odeIdeviceId>idevice-1778175832060-c1o5b7siu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Cómo se evalúa vuestro trabajo</h2>
+<p>Durante el proyecto utilizaremos **tres instrumentos de evaluación complementarios** que permiten valorar tanto el proceso como el resultado final.</p>
+<h4>Los tres instrumentos</h4>
+<p><strong>1. Rúbrica analítica para la infografía final</strong></p>
+<p>Evalúa el producto final con 5 criterios:<br />- Contenido completo (Criterios 1.1 y 3.2)<br />- Organización visual (Criterio 4.2)<br />- Uso de imágenes con licencia CC (Criterio 4.2)<br />- Citas de fuentes (Criterio 1.2)<br />- Diseño y claridad (Criterio 4.2)</p>
+<p>Cada criterio tiene 5 niveles: Insuficiente (1) → Básico (2) → Adecuado (3) → Notable (4) → Excelente (5)</p>
+<p><strong>2. Lista de cotejo para el dosier colaborativo</strong></p>
+<p>Seguimiento procesual del trabajo en equipo durante las sesiones 1, 2 y 3. Incluye 12 aspectos observables:<br />- Documento compartido correctamente<br />- Participación equilibrada de los 3 miembros (verificable en historial)<br />- Contenidos completos de cada apartado<br />- Buena redacción y ortografía</p>
+<p>Formato: Sí / No / En proceso</p>
+<p><strong>3. Diana de autoevaluación del trabajo en equipo</strong></p>
+<p>Al finalizar el proyecto, cada grupo reflexiona sobre su proceso cooperativo marcando 6 dimensiones:<br />- Participación equilibrada<br />- Respeto y escucha<br />- Resolución de conflictos<br />- Cumplimiento de plazos<br />- Calidad del trabajo final<br />- Aprendizaje conseguido</p>
+<p>Graduación de 1 (bajo, centro) a 4 (alto, exterior)</p>
+<p>--------------------------</p>
+<h4>¿Por qué tres instrumentos?</h4>
+<p>La combinación de estos tres instrumentos permite **triangular datos** desde diferentes perspectivas:<br />- La <strong>rúbrica</strong> aporta evaluación del producto final desde criterios externos (heteroevaluación docente)<br />- La <strong>lista de cotejo</strong> aporta seguimiento procesual objetivo del trabajo colaborativo<br />- La <strong>diana</strong> aporta autoevaluación grupal reflexiva sobre el proceso cooperativo</p>
+<p>Esto significa que la evaluación no se centra solo en la nota final, sino en todo el proceso de aprendizaje.</p>
+<p>---</p>
+<p>Documento completo</p>
+<p>Podéis consultar los tres instrumentos con todos sus detalles y descriptores en este documento:</p>
+<p><a href="https://drive.google.com/file/d/1uCRubhHyMXqJzDHj07R8UqAap3Iv6hIs/view?usp=drive_link" title="">Instrumentos de evaluación completos (PDF)</a></p>
+<p>En el documento encontraréis:<br />- Las tablas completas de cada instrumento<br />- Explicación de qué evalúa cada uno<br />- Cuándo se aplica<br />- Cómo se obtienen y analizan los datos<br />- Tratamiento de posibles variables (problemas técnicos, ritmos diferentes, etc.)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778175832060-c1o5b7siu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Cómo se evalúa vuestro trabajo</h2>\n<p>Durante el proyecto utilizaremos **tres instrumentos de evaluación complementarios** que permiten valorar tanto el proceso como el resultado final.</p>\n<h4>Los tres instrumentos</h4>\n<p><strong>1. Rúbrica analítica para la infografía final</strong></p>\n<p>Evalúa el producto final con 5 criterios:<br />- Contenido completo (Criterios 1.1 y 3.2)<br />- Organización visual (Criterio 4.2)<br />- Uso de imágenes con licencia CC (Criterio 4.2)<br />- Citas de fuentes (Criterio 1.2)<br />- Diseño y claridad (Criterio 4.2)</p>\n<p>Cada criterio tiene 5 niveles: Insuficiente (1) → Básico (2) → Adecuado (3) → Notable (4) → Excelente (5)</p>\n<p><strong>2. Lista de cotejo para el dosier colaborativo</strong></p>\n<p>Seguimiento procesual del trabajo en equipo durante las sesiones 1, 2 y 3. Incluye 12 aspectos observables:<br />- Documento compartido correctamente<br />- Participación equilibrada de los 3 miembros (verificable en historial)<br />- Contenidos completos de cada apartado<br />- Buena redacción y ortografía</p>\n<p>Formato: Sí / No / En proceso</p>\n<p><strong>3. Diana de autoevaluación del trabajo en equipo</strong></p>\n<p>Al finalizar el proyecto, cada grupo reflexiona sobre su proceso cooperativo marcando 6 dimensiones:<br />- Participación equilibrada<br />- Respeto y escucha<br />- Resolución de conflictos<br />- Cumplimiento de plazos<br />- Calidad del trabajo final<br />- Aprendizaje conseguido</p>\n<p>Graduación de 1 (bajo, centro) a 4 (alto, exterior)</p>\n<p>--------------------------</p>\n<h4>¿Por qué tres instrumentos?</h4>\n<p>La combinación de estos tres instrumentos permite **triangular datos** desde diferentes perspectivas:<br />- La <strong>rúbrica</strong> aporta evaluación del producto final desde criterios externos (heteroevaluación docente)<br />- La <strong>lista de cotejo</strong> aporta seguimiento procesual objetivo del trabajo colaborativo<br />- La <strong>diana</strong> aporta autoevaluación grupal reflexiva sobre el proceso cooperativo</p>\n<p>Esto significa que la evaluación no se centra solo en la nota final, sino en todo el proceso de aprendizaje.</p>\n<p>---</p>\n<p>Documento completo</p>\n<p>Podéis consultar los tres instrumentos con todos sus detalles y descriptores en este documento:</p>\n<p><a href=\"https://drive.google.com/file/d/1uCRubhHyMXqJzDHj07R8UqAap3Iv6hIs/view?usp=drive_link\" title=\"\">Instrumentos de evaluación completos (PDF)</a></p>\n<p>En el documento encontraréis:<br />- Las tablas completas de cada instrumento<br />- Explicación de qué evalúa cada uno<br />- Cuándo se aplica<br />- Cómo se obtienen y analizan los datos<br />- Tratamiento de posibles variables (problemas técnicos, ritmos diferentes, etc.)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778145296966-cr0inndy6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Guía didáctica (para docentes)</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía didáctica (para docentes)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778145296966-cr0inndy6</odePageId>
+      <odeBlockId>block-1778175917999-1fhpd01ez</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145296966-cr0inndy6</odePageId>
+          <odeBlockId>block-1778175917999-1fhpd01ez</odeBlockId>
+          <odeIdeviceId>idevice-1778175917996-wvfhkd1cb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Guía para docentes</h2>
+<p>Esta página está dirigida a otros docentes que deseen aplicar este proyecto en sus aulas. Aquí encontraréis información curricular, organizativa y recomendaciones prácticas.</p>
+<p>--------------------------</p>
+<h4>Elementos curriculares</h4>
+<p>Nivel educativo<br />3.º ESO - Geografía e Historia</p>
+<p><strong>Competencias específicas trabajadas</strong><br />- CE1: Buscar, seleccionar y organizar información geográfica<br />- CE3: Conocer los principales desafíos a los que se ha enfrentado la humanidad<br />- CE4: Identificar y analizar los elementos del paisaje y su articulación en sistemas complejos<br />- CE8: Tomar conciencia del papel de los ciclos demográficos, el ciclo vital y las relaciones intergeneracionales</p>
+<p><strong>Criterios de evaluación asociados</strong><br /><strong>Criterio 1.1</strong>: Elaborar contenidos propios en distintos formatos mediante aplicaciones y estrategias de recogida y representación de datos sencillas, aprendiendo a usar y contrastar críticamente fuentes fiables</p>
+<p><strong>Criterio 1.2</strong>: Contrastar y argumentar sobre temas y acontecimientos de la Prehistoria, la Edad Antigua, la Edad Media y la Edad Moderna, localizando y analizando de forma crítica fuentes primarias y secundarias como pruebas históricas</p>
+<p><strong>Criterio 1.3</strong>: Valorar y respetar el patrimonio histórico, arqueológico, artístico y cultural como fundamento de nuestra identidad colectiva</p>
+<p><strong>Criterio 3.2</strong>: Identificar los principales problemas, retos y desafíos a los que se ha enfrentado la humanidad a lo largo de la historia y en la actualidad</p>
+<p><strong>Criterio 4.2</strong>: Conocer los elementos del sistema económico, sus relaciones y las herramientas digitales utilizadas para la organización de la vida cotidiana</p>
+<p><strong>Criterio 8.1</strong>: Adoptar un papel activo y comprometido con el entorno, de acuerdo con aptitudes, aspiraciones, intereses y valores propios</p>
+<p>--------------------------</p>
+<h4>Tabla de tareas asociadas a criterios</h4>
+<p>El siguiente documento incluye:<br />- <strong>9 tareas detalladas </strong>con tiempo, agrupamiento y herramientas<br />- <strong>Asociación </strong>de cada tarea a criterios de evaluación<br />- <strong>Estrategia</strong> de gestión de problemas técnicos</p>
+<p><a href="https://docs.google.com/document/d/1asshP3pqvq3AAxxKjWKK4VrBuROoSNyy/edit?usp=drive_link&amp;ouid=104096500992949031859&amp;rtpof=true&amp;sd=true" title="">Descargar tabla completa tareas-criterios</a></p>
+<p>-------------------</p>
+<h4>Recomendaciones prácticas</h4>
+<p><strong>Dotación tecnológica necesaria</strong><br />- Aula de informática o carro de ordenadores (1 dispositivo cada 3 alumnos/as)<br />- Conexión a internet estable<br />- Cuentas de Google Workspace institucionales (g.educaand.es)<br />- Proyector para la sesión 4</p>
+<p><strong>Organización espacial</strong><br />- Sesión 1: Aula ordinaria o informática (flexible)<br />- Sesión 2: Aula de informática (imprescindible)<br />- Sesión 3: Aula ordinaria o biblioteca (uso de dispositivos opcional)<br />- Sesión 4: Informática primera parte, ordinaria segunda parte</p>
+<p><strong>Gestión de la incertidumbre</strong><br /><span style="text-decoration: underline;">Problemas técnicos</span>:<br />- Alternativas analógicas preparadas (papel, atlas físico)<br />- Rutina de resolución de problemas autónoma (primero pregunta a tu grupo, luego a otro grupo, finalmente al docente)<br />- Concentrar uso intensivo de dispositivos en sesiones 2 y 4</p>
+<p><span style="text-decoration: underline;">Participación desequilibrada</span>:<br />- Historial de versiones de Google Docs permite verificar quién trabaja<br />- Protocolo de roles rotativos si se detecta monopolización<br />- Diana de autoevaluación final detecta percepciones grupales</p>
+<p><span style="text-decoration: underline;">Ritmos diferentes</span>:<br />- Grupos rápidos: profundizar o actuar como "consultores" de otros grupos<br />- Grupos lentos: simplificar DAFO (de 4 a 2 categorías) para garantizar llegada al producto final</p>
+<p><strong>Adaptaciones DUA</strong><br />- Representación múltiple: Dossier PDF + mapa mental + infografía + exposición oral<br />- Acción y expresión: Trabajo colaborativo con roles, opciones de formato (más texto/menos imagen si dificultades síntesis gráfica)<br />- Implicación: Elección del producto cotidiano, casos reales actuales, propuestas sostenibles personales</p>
+<p>---------------------------</p>
+<h4>Materiales adicionales</h4>
+<p>Todos los recursos mencionados en este proyecto están disponibles en las páginas anteriores:<br />- Página 2: Protección de datos<br />- Página 4: Padlet con fuentes y tutoriales<br />- Página 5: Mapa mental organizativo<br />- Página 6: Instrumentos de evaluación completos</p>
+<h4>Herramientas docentes complementarias</h4>
+<p>Para gestión y seguimiento del proyecto como docente, consulta:</p>
+<p><a href="https://wakelet.com/wake/jgJ1skAtcbCxU0AArJMyF" title="">Wakelet con herramientas de gestión docente</a></p>
+<p>Incluye: Séneca, iPasen, Moodle Centros, Google Workspace, herramientas de evaluación, recursos didácticos institucionales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778175917996-wvfhkd1cb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Guía para docentes</h2>\n<p>Esta página está dirigida a otros docentes que deseen aplicar este proyecto en sus aulas. Aquí encontraréis información curricular, organizativa y recomendaciones prácticas.</p>\n<p>--------------------------</p>\n<h4>Elementos curriculares</h4>\n<p>Nivel educativo<br />3.º ESO - Geografía e Historia</p>\n<p><strong>Competencias específicas trabajadas</strong><br />- CE1: Buscar, seleccionar y organizar información geográfica<br />- CE3: Conocer los principales desafíos a los que se ha enfrentado la humanidad<br />- CE4: Identificar y analizar los elementos del paisaje y su articulación en sistemas complejos<br />- CE8: Tomar conciencia del papel de los ciclos demográficos, el ciclo vital y las relaciones intergeneracionales</p>\n<p><strong>Criterios de evaluación asociados</strong><br /><strong>Criterio 1.1</strong>: Elaborar contenidos propios en distintos formatos mediante aplicaciones y estrategias de recogida y representación de datos sencillas, aprendiendo a usar y contrastar críticamente fuentes fiables</p>\n<p><strong>Criterio 1.2</strong>: Contrastar y argumentar sobre temas y acontecimientos de la Prehistoria, la Edad Antigua, la Edad Media y la Edad Moderna, localizando y analizando de forma crítica fuentes primarias y secundarias como pruebas históricas</p>\n<p><strong>Criterio 1.3</strong>: Valorar y respetar el patrimonio histórico, arqueológico, artístico y cultural como fundamento de nuestra identidad colectiva</p>\n<p><strong>Criterio 3.2</strong>: Identificar los principales problemas, retos y desafíos a los que se ha enfrentado la humanidad a lo largo de la historia y en la actualidad</p>\n<p><strong>Criterio 4.2</strong>: Conocer los elementos del sistema económico, sus relaciones y las herramientas digitales utilizadas para la organización de la vida cotidiana</p>\n<p><strong>Criterio 8.1</strong>: Adoptar un papel activo y comprometido con el entorno, de acuerdo con aptitudes, aspiraciones, intereses y valores propios</p>\n<p>--------------------------</p>\n<h4>Tabla de tareas asociadas a criterios</h4>\n<p>El siguiente documento incluye:<br />- <strong>9 tareas detalladas </strong>con tiempo, agrupamiento y herramientas<br />- <strong>Asociación </strong>de cada tarea a criterios de evaluación<br />- <strong>Estrategia</strong> de gestión de problemas técnicos</p>\n<p><a href=\"https://docs.google.com/document/d/1asshP3pqvq3AAxxKjWKK4VrBuROoSNyy/edit?usp=drive_link&amp;ouid=104096500992949031859&amp;rtpof=true&amp;sd=true\" title=\"\">Descargar tabla completa tareas-criterios</a></p>\n<p>-------------------</p>\n<h4>Recomendaciones prácticas</h4>\n<p><strong>Dotación tecnológica necesaria</strong><br />- Aula de informática o carro de ordenadores (1 dispositivo cada 3 alumnos/as)<br />- Conexión a internet estable<br />- Cuentas de Google Workspace institucionales (g.educaand.es)<br />- Proyector para la sesión 4</p>\n<p><strong>Organización espacial</strong><br />- Sesión 1: Aula ordinaria o informática (flexible)<br />- Sesión 2: Aula de informática (imprescindible)<br />- Sesión 3: Aula ordinaria o biblioteca (uso de dispositivos opcional)<br />- Sesión 4: Informática primera parte, ordinaria segunda parte</p>\n<p><strong>Gestión de la incertidumbre</strong><br /><span style=\"text-decoration: underline;\">Problemas técnicos</span>:<br />- Alternativas analógicas preparadas (papel, atlas físico)<br />- Rutina de resolución de problemas autónoma (primero pregunta a tu grupo, luego a otro grupo, finalmente al docente)<br />- Concentrar uso intensivo de dispositivos en sesiones 2 y 4</p>\n<p><span style=\"text-decoration: underline;\">Participación desequilibrada</span>:<br />- Historial de versiones de Google Docs permite verificar quién trabaja<br />- Protocolo de roles rotativos si se detecta monopolización<br />- Diana de autoevaluación final detecta percepciones grupales</p>\n<p><span style=\"text-decoration: underline;\">Ritmos diferentes</span>:<br />- Grupos rápidos: profundizar o actuar como \"consultores\" de otros grupos<br />- Grupos lentos: simplificar DAFO (de 4 a 2 categorías) para garantizar llegada al producto final</p>\n<p><strong>Adaptaciones DUA</strong><br />- Representación múltiple: Dossier PDF + mapa mental + infografía + exposición oral<br />- Acción y expresión: Trabajo colaborativo con roles, opciones de formato (más texto/menos imagen si dificultades síntesis gráfica)<br />- Implicación: Elección del producto cotidiano, casos reales actuales, propuestas sostenibles personales</p>\n<p>---------------------------</p>\n<h4>Materiales adicionales</h4>\n<p>Todos los recursos mencionados en este proyecto están disponibles en las páginas anteriores:<br />- Página 2: Protección de datos<br />- Página 4: Padlet con fuentes y tutoriales<br />- Página 5: Mapa mental organizativo<br />- Página 6: Instrumentos de evaluación completos</p>\n<h4>Herramientas docentes complementarias</h4>\n<p>Para gestión y seguimiento del proyecto como docente, consulta:</p>\n<p><a href=\"https://wakelet.com/wake/jgJ1skAtcbCxU0AArJMyF\" title=\"\">Wakelet con herramientas de gestión docente</a></p>\n<p>Incluye: Séneca, iPasen, Moodle Centros, Google Workspace, herramientas de evaluación, recursos didácticos institucionales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778145302839-qko0hkkv3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos y descargas</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos y descargas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778145302839-qko0hkkv3</odePageId>
+      <odeBlockId>block-1778176020191-9uk3urunz</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145302839-qko0hkkv3</odePageId>
+          <odeBlockId>block-1778176020191-9uk3urunz</odeBlockId>
+          <odeIdeviceId>idevice-1778176020188-ivn553npo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Autoría y licencia</h2>
+<p><strong>Autor</strong><br />Juan Arrebola<br />Profesor de Geografía e Historia  <br />IES Cilniana (Marbella, Málaga)</p>
+<p><strong>Descripción del proyecto</strong><br />"Cuello de botella: el viaje invisible de los productos" es un proyecto de aprendizaje basado en problemas para 3.º ESO de Geografía e Historia. El alumnado investiga cómo los bloqueos en puntos estratégicos del transporte marítimo global (Canal de Suez, Mar Rojo, Estrecho de Ormuz) afectan a la cadena logística de productos cotidianos, y propone soluciones sostenibles.</p>
+<p><span style="text-decoration: underline;">Duración</span>: 4 sesiones de 50 minutos  <br /><span style="text-decoration: underline;">Agrupamiento</span>: Grupos de 3 alumnos/as  <br /><span style="text-decoration: underline;">Producto final</span>: Dosier de análisis + Infografía + Exposición oral  </p>
+<p><strong>Curso académico</strong><br />2025-2026</p>
+<p><strong>Licencia de uso</strong><br />Este recurso educativo se distribuye bajo licencia <strong><em>Creative Commons BY-SA 4.0</em></strong></p>
+<p>Reconocimiento - Compartir Igual (CC BY-SA 4.0)</p>
+<p>Eres libre de:<br />- <span style="text-decoration: underline;">Compartir</span>: copiar y redistribuir el material en cualquier medio o formato<br />- <span style="text-decoration: underline;">Adaptar</span>: remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente</p>
+<p>Bajo las siguientes condiciones:<br />- <span style="text-decoration: underline;">Reconocimiento</span>: Debes dar crédito de manera adecuada, proporcionar un enlace a la licencia e indicar si se han realizado cambios<br />- <span style="text-decoration: underline;">Compartir Igual</span>: Si remezclas, transformas o creas a partir del material, debes distribuir tus contribuciones bajo la misma licencia</p>
+<p>Más información: https://creativecommons.org/licenses/by-sa/4.0/deed.es</p>
+<p>------------------------</p>
+<h4>Descarga el proyecto editable</h4>
+<p>Puedes descargar este proyecto completo en formato editable (.elp) para adaptarlo a tu contexto educativo.</p>
+<p><strong>Instrucciones</strong>:<br />1. Descarga el archivo .elp<br />2. Abre eXeLearning en tu ordenador<br />3. Archivo → Abrir → Selecciona el archivo descargado<br />4. Modifica y adapta según tus necesidades<br />5. Recuerda mantener la licencia CC BY-SA y citar la autoría original</p>
+<p><a href="https://drive.google.com/file/d/1gkKODJvQJVPDSqAz_qjRm-MPMjJSq281/view?usp=sharing" title="">Descargar proyecto editable (.elp)</a></p>
+<p>---------------------</p>
+<h4>Agradecimientos</h4>
+<p>Este proyecto se ha desarrollado en el marco del curso Competencia Digital Docente B2 de la Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía.</p>
+<p>Agradezco a los equipos docentes del IES Cilniana su apoyo en la implementación de metodologías activas y uso de tecnologías digitales en el aula.</p>
+<p>-------------------------------</p>
+<p>Contacto</p>
+<p>Para consultas, sugerencias o compartir experiencias de aplicación de este proyecto:</p>
+<p>📧 jarrcas545@g.educaand.es</p>
+<p>---</p>
+<p>Última actualización: Mayo 2026</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778176020188-ivn553npo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Autoría y licencia</h2>\n<p><strong>Autor</strong><br />Juan Arrebola<br />Profesor de Geografía e Historia  <br />IES Cilniana (Marbella, Málaga)</p>\n<p><strong>Descripción del proyecto</strong><br />\"Cuello de botella: el viaje invisible de los productos\" es un proyecto de aprendizaje basado en problemas para 3.º ESO de Geografía e Historia. El alumnado investiga cómo los bloqueos en puntos estratégicos del transporte marítimo global (Canal de Suez, Mar Rojo, Estrecho de Ormuz) afectan a la cadena logística de productos cotidianos, y propone soluciones sostenibles.</p>\n<p><span style=\"text-decoration: underline;\">Duración</span>: 4 sesiones de 50 minutos  <br /><span style=\"text-decoration: underline;\">Agrupamiento</span>: Grupos de 3 alumnos/as  <br /><span style=\"text-decoration: underline;\">Producto final</span>: Dosier de análisis + Infografía + Exposición oral  </p>\n<p><strong>Curso académico</strong><br />2025-2026</p>\n<p><strong>Licencia de uso</strong><br />Este recurso educativo se distribuye bajo licencia <strong><em>Creative Commons BY-SA 4.0</em></strong></p>\n<p>Reconocimiento - Compartir Igual (CC BY-SA 4.0)</p>\n<p>Eres libre de:<br />- <span style=\"text-decoration: underline;\">Compartir</span>: copiar y redistribuir el material en cualquier medio o formato<br />- <span style=\"text-decoration: underline;\">Adaptar</span>: remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente</p>\n<p>Bajo las siguientes condiciones:<br />- <span style=\"text-decoration: underline;\">Reconocimiento</span>: Debes dar crédito de manera adecuada, proporcionar un enlace a la licencia e indicar si se han realizado cambios<br />- <span style=\"text-decoration: underline;\">Compartir Igual</span>: Si remezclas, transformas o creas a partir del material, debes distribuir tus contribuciones bajo la misma licencia</p>\n<p>Más información: https://creativecommons.org/licenses/by-sa/4.0/deed.es</p>\n<p>------------------------</p>\n<h4>Descarga el proyecto editable</h4>\n<p>Puedes descargar este proyecto completo en formato editable (.elp) para adaptarlo a tu contexto educativo.</p>\n<p><strong>Instrucciones</strong>:<br />1. Descarga el archivo .elp<br />2. Abre eXeLearning en tu ordenador<br />3. Archivo → Abrir → Selecciona el archivo descargado<br />4. Modifica y adapta según tus necesidades<br />5. Recuerda mantener la licencia CC BY-SA y citar la autoría original</p>\n<p><a href=\"https://drive.google.com/file/d/1gkKODJvQJVPDSqAz_qjRm-MPMjJSq281/view?usp=sharing\" title=\"\">Descargar proyecto editable (.elp)</a></p>\n<p>---------------------</p>\n<h4>Agradecimientos</h4>\n<p>Este proyecto se ha desarrollado en el marco del curso Competencia Digital Docente B2 de la Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía.</p>\n<p>Agradezco a los equipos docentes del IES Cilniana su apoyo en la implementación de metodologías activas y uso de tecnologías digitales en el aula.</p>\n<p>-------------------------------</p>\n<p>Contacto</p>\n<p>Para consultas, sugerencias o compartir experiencias de aplicación de este proyecto:</p>\n<p>📧 jarrcas545@g.educaand.es</p>\n<p>---</p>\n<p>Última actualización: Mayo 2026</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778145302839-qko0hkkv3</odePageId>
+      <odeBlockId>block-1778176208543-cuh0316bc</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778145302839-qko0hkkv3</odePageId>
+          <odeBlockId>block-1778176208543-cuh0316bc</odeBlockId>
+          <odeIdeviceId>idevice-1778176208540-wdu274sxk</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778176208540-wdu274sxk" title="Licencia Creative Commons BY-SA 4.0" href="{{context_path}}/content/resources/88x31.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/88x31.png" height="128" width="128" title="Licencia Creative Commons BY-SA 4.0" alt="Licencia Creative Commons BY-SA 4.0" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778176208540-wdu274sxk","img_0":{"img":"{{context_path}}/content/resources/88x31.png","thumbnail":"{{context_path}}/content/resources/88x31.png","title":"Licencia Creative Commons BY-SA 4.0","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
